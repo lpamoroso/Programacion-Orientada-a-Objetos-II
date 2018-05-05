@@ -1,6 +1,6 @@
 Inciso 3
 ======
-Cree en un Playground un objeto para cada uno de los ejemplos citados anteriormente.
+Cree en un playground un objeto para cada uno de los ejemplos citados anteriormente.
 
 
 * nombre - extensión
