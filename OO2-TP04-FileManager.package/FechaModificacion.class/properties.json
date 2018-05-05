@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Decorator",
+	"category" : "OO2-TP04-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FechaModificacion",
+	"type" : "normal"
+}
