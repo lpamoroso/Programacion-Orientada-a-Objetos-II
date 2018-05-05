@@ -9,7 +9,7 @@ Cree en un Playground un objeto para cada uno de los ejemplos citados anteriorme
 fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
 fileOO2:= Nombre newNext: fileOO2.
 fileOO2:= Extension newNext: fileOO2.
-fileOO2 prettyPrin
+fileOO2 prettyPrint
 ```
 * nombre - extensión - fecha de creación
 ```smalltalk
