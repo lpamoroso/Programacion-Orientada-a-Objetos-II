@@ -11,7 +11,7 @@ fileOO2:= Nombre newNext: fileOO2.
 fileOO2:= Extension newNext: fileOO2.
 fileOO2 prettyPrint
 ```
-* nombre - extensión - fecha de creación
+* nombre - exteion - fecha de creación
 ```smalltalk
 |fileOO2|
 fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
