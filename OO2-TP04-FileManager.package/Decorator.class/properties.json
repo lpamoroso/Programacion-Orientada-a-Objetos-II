@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "<historical>",
-	"super" : "Object",
+	"super" : "Component",
 	"category" : "OO2-TP04-FileManager",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"archivos"
+		"next"
 	],
-	"name" : "FileManager",
+	"name" : "Decorator",
 	"type" : "normal"
 }

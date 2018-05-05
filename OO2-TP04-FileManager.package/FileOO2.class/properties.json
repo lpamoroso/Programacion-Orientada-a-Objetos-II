@@ -1,13 +1,18 @@
 {
 	"commentStamp" : "<historical>",
-	"super" : "Object",
+	"super" : "Component",
 	"category" : "OO2-TP04-FileManager",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"archivos"
+		"nombre",
+		"extension",
+		"tamaño",
+		"fecha_creacion",
+		"fecha_modificacion",
+		"permisos"
 	],
-	"name" : "FileManager",
+	"name" : "FileOO2",
 	"type" : "normal"
 }
