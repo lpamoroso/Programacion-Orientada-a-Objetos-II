@@ -3,7 +3,7 @@ Inciso 3
 Cree en un Playground un objeto para cada uno de los ejemplos citados anteriormente.
 
 
-* nombre - extension
+* nombre - extensión
 ```smalltalk
 |fileOO2|
 fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
