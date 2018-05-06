@@ -1,1 +1,0 @@
-I'm a component. I'm configured by the file manager.
