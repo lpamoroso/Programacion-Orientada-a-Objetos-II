@@ -1,0 +1,1 @@
+I represent a broker between client and weather station

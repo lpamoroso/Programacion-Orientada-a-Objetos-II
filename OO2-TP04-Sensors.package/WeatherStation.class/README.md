@@ -1,0 +1,1 @@
+I'm a weather station. Clients want infomation about me, but they don't understand me. That's why they ask broker if he can ask me whatever they need.
