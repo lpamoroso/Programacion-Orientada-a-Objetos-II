@@ -1,0 +1,1 @@
+I'm a LineRetriever. My job is to retrieve lines from a specific file. When proxy asks me followers from a specific user, I retrieve him the followers of that specific user.

@@ -1,0 +1,1 @@
+I'm a proxy. I know an instance of database. When user asks me about its followers, i retrieve followers for him using database.

@@ -1,1 +1,1 @@
-I'm a main file. Multiple decorators are going to place on me.
+I'm a file. Multiple decorators are going to place on me.

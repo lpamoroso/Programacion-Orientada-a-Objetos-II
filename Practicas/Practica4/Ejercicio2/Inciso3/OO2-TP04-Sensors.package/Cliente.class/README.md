@@ -1,1 +1,1 @@
-I represent the client that comunicates with the broker in order to get infomation about a weather station
+I represent the client that communicates with the broker in order to get infomation about a weather station

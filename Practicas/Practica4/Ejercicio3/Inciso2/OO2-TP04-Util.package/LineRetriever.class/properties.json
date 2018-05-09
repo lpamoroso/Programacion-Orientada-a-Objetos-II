@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OO2-TP04-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"instance"
+	],
+	"instvars" : [
+		"filename"
+	],
+	"name" : "LineRetriever",
+	"type" : "normal"
+}
