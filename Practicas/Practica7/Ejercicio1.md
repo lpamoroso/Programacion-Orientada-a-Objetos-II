@@ -14,7 +14,7 @@ Considere la implementación de las clases *Figure* provista por la cátedra. Re
 
 #
 
-1. El código permite crear líneas, círculos y rectángulos.
+1. El código permite crear círculos, triangulos equilateros y cuadrados.
 2. PREGUNTAR DÓNDE ESTÁ EL CÓDIGO PROVISTO Y LOS TEST CASES.
 3.
     1. La idea sería crear una nueva clase Paralelogramo que heredara de figura y reimplementara los mensajes de ésta según sea necesario y que tuviera sus atributos correspondientes.
