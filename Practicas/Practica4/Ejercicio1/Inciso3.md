@@ -3,30 +3,30 @@ Inciso 3
 Cree en un playground un objeto para cada uno de los ejemplos citados anteriormente.
 
 
-* nombre - extensión
+* nombre - extensiÃ³n
 ```smalltalk
 |fileOO2|
-fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
+fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaï¿½o: '67'.
 fileOO2:= Nombre newNext: fileOO2.
 fileOO2:= Extension newNext: fileOO2.
 fileOO2 prettyPrint
 ```
-* nombre - extensión - fecha de creación
+* nombre - extensiï¿½n - fecha de creaciï¿½n
 ```smalltalk
 |fileOO2|
-fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
+fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaï¿½o: '67'.
 fileOO2:= Nombre newNext: fileOO2.
 fileOO2:= Extension newNext: fileOO2.
 fileOO2:= FechaCreacion newNext: fileOO2.
 fileOO2 prettyPrint
 ```
-* permisos - nombre - extensión - tamaño
+* permisos - nombre - extensiï¿½n - tamaï¿½o
 ```smalltalk
 |fileOO2|
-fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaño: '67'.
+fileOO2:= FileOO2 newWithNombre: 'coso' extension: 'coso1' fecha_creacion: Date today fecha_modificacion: Date yesterday permisos: 'coso3' tamaï¿½o: '67'.
 fileOO2:= Permisos newNext: fileOO2.
 fileOO2:= Nombre newNext: fileOO2.
 fileOO2:= Extension newNext: fileOO2.
-fileOO2:= Tamaño newNext: fileOO2.
+fileOO2:= Tamaï¿½o newNext: fileOO2.
 fileOO2 prettyPrint
 ```
